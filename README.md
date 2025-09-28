@@ -79,6 +79,17 @@ Output: định thức (double)
 
 
 
+6. web
+
+
+
+
+   <img width="874" height="463" alt="image" src="https://github.com/user-attachments/assets/2fb3d080-6e12-4384-9488-3b23318f64eb" />
+
+
+
+
+
 
 
 
