@@ -9,6 +9,16 @@ Web đơn giản, bắt buộc sử dụng .NET Framework 2.0, sử dụng web s
 
 # BaiLam:
 
+Đề bài yều cầu cần tạo các Solution gồm:
+
+   Myfristweb (DLL Class Library) → thuật toán ma trận
+   
+   MyConsole → console nhập liệu, chạy với DLL
+   
+   MyWindowsForms → form nhập, chạy với DLL
+   
+   MyWeb → web nhập, chạy với DLL
+   
 1. Tạo DLL đa năng (Class Library .NET Framework 2.0)
 
 👉 Đây là project trung tâm, chứa thuật toán tính định thức ma trận (determinant).
@@ -24,7 +34,9 @@ Output: định thức (double)
 <img width="1873" height="973" alt="image" src="https://github.com/user-attachments/assets/edbef538-5731-483d-8467-664f1b3e73fb" />
 
 
+
 2. Console App (.NET Framework 2.0)
+   
    
    Sau khi tạo được 2 project ta có bảng:
 
@@ -40,6 +52,7 @@ Output: định thức (double)
 
 
 4.ASP.NET WebForms App (.NET Framework 2.0)
+
  Tạo ra các item :
 
 
@@ -49,6 +62,16 @@ Output: định thức (double)
 
 
 5. Cấu hình IIS cho Project Web
+
+
+
+<img width="1319" height="717" alt="image" src="https://github.com/user-attachments/assets/d61e7a3a-d58a-4393-89a4-a4f21221f6b3" />
+
+
+
+
+
+
    
 
 <img width="1409" height="715" alt="image" src="https://github.com/user-attachments/assets/0f7555d0-eaec-40fc-801d-55b1365e38f7" />
