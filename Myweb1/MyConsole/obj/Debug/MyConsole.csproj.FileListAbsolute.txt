@@ -1,0 +1,9 @@
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\bin\Debug\MyConsole.exe
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\bin\Debug\MyConsole.pdb
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\bin\Debug\Myfristweb.dll
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\bin\Debug\Myfristweb.pdb
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\obj\Debug\MyConsole.csproj.AssemblyReference.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\obj\Debug\MyConsole.csproj.CoreCompileInputs.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\obj\Debug\MyConsole.csproj.Up2Date
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\obj\Debug\MyConsole.exe
+F:\Project_Test\baitapwebcuatui\Myweb1\MyConsole\obj\Debug\MyConsole.pdb

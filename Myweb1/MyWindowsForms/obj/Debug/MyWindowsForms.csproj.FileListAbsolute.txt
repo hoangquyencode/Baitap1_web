@@ -1,0 +1,5 @@
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.AssemblyReference.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWindowsForms\obj\Debug\MyWindowsForms.Form1.resources
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWindowsForms\obj\Debug\MyWindowsForms.Properties.Resources.resources
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.GenerateResource.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CoreCompileInputs.cache

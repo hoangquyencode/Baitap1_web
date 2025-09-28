@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Ma Trận Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        #matrixContainer input {
+            width: 40px;
+            text-align: center;
+        }
+
+        #txtResult {
+            width: 300px;
+            height: 50px;
+        }
+    </style>
+    <script>
+        function sendData() {
+            var n = document.getElementById("txtSize").value;
+            var data = { size: n, matrix: [] };
+
+            for (let i = 0; i < n; i++) {
+                data.matrix[i] = [];
+                for (let j = 0; j < n; j++) {
+                    let val = document.getElementById("cell_" + i + "_" + j).value;
+                    data.matrix[i][j] = parseFloat(val);
+                }
+            }
+
+            fetch("api.aspx", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            })
+                .then(res => res.json())
+                .then(result => {
+                    // Hiển thị kết quả vào ô txtResult
+                    document.getElementById("txtResult").value =
+                        "det(A) = " + result.det + " | " + result.signature;
+                });
+        }
+
+        function buildMatrix() {
+            var n = document.getElementById("txtSize").value;
+            var container = document.getElementById("matrixContainer");
+            container.innerHTML = "";
+            for (let i = 0; i < n; i++) {
+                for (let j = 0; j < n; j++) {
+                    container.innerHTML += "<input id='cell_" + i + "_" + j + "' />";
+                }
+                container.innerHTML += "<br/>";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>Giải toán Ma Trận (Web)</h2>
+    Kích thước ma trận:
+    <input type="text" id="txtSize" />
+    <button onclick="buildMatrix()">Tạo ma trận</button>
+    <div id="matrixContainer"></div>
+    <button onclick="sendData()">Tính Định Thức</button>
+    <br /><br />
+    <label>Kết quả:</label><br />
+    <textarea id="txtResult" readonly></textarea>
+</body>
+</html>
