@@ -1,2 +1,0 @@
-F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApplication.csproj.AssemblyReference.cache
-F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApplication.csproj.CoreCompileInputs.cache
