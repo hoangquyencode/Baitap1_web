@@ -1,0 +1,10 @@
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApplication.csproj.AssemblyReference.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApplication.csproj.CoreCompileInputs.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\bin\MyWebApplication.dll.config
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\bin\MyWebApplication.dll
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\bin\MyWebApplication.pdb
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\bin\Myfristweb.dll
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\bin\Myfristweb.pdb
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApp.9E751F24.Up2Date
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApplication.dll
+F:\Project_Test\baitapwebcuatui\Myweb1\MyWebApplication\obj\Debug\MyWebApplication.pdb

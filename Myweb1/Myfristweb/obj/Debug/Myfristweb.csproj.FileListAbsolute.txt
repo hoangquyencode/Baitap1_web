@@ -1,0 +1,6 @@
+F:\Project_Test\baitapwebcuatui\Myweb1\Myfristweb\bin\Debug\Myfristweb.dll
+F:\Project_Test\baitapwebcuatui\Myweb1\Myfristweb\bin\Debug\Myfristweb.pdb
+F:\Project_Test\baitapwebcuatui\Myweb1\Myfristweb\obj\Debug\Myfristweb.csproj.AssemblyReference.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\Myfristweb\obj\Debug\Myfristweb.csproj.CoreCompileInputs.cache
+F:\Project_Test\baitapwebcuatui\Myweb1\Myfristweb\obj\Debug\Myfristweb.dll
+F:\Project_Test\baitapwebcuatui\Myweb1\Myfristweb\obj\Debug\Myfristweb.pdb
